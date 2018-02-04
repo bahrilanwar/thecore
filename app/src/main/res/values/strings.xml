@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AHMAD BAHRI_1202150111_Modul1</string>
+    <string name="dinner">Candle Light Dinner</string>
+    <string name="milea">with MILEA</string>
+    <string name="menu">Pilih Menu</string>
+    <string name="portion">Porsi</string>
+    <string name="eatbus">Eatbus</string>
+    <string name="upnormal">Upnormal</string>
+    <string name="location">Location :</string>
+    <string name="porsi">Porsi</string>
+    <string name="harga">Harga</string>
+    <string name="menu2">Menu</string>
+    <string name="saldo2">Saldo :</string>
+</resources>
